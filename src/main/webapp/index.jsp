@@ -11,13 +11,13 @@
     <nav>
       <a href="#"><img src="https://github.com/CanisCoder/jenkins-java-project/blob/master/src/netflixlogo.png?raw=true" alt="logo" /></a>
     </nav>
-    <div class="background-image"></div>
+    <div class="background-image"></div>  
     <div class="form-wrapper">
       <h2> ARTHAM INDHA MASTERUUUU.</h2>
       <form action="#">
         <div class="form-control">
           <input type="text" required />
-          <label>EmaillLLLLLL</label>
+          <label>EmaillLLLLL</label>
         </div>
         <div class="form-control">
           <input type="password" required />
